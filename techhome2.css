@@ -1,0 +1,195 @@
+.head2nd {
+    display: flex;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: 32vw;
+    top: -70px;
+}
+
+.head {
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    gap: 10px;
+}
+
+.head2 {
+    background: linear-gradient(to right, aqua, rgb(68, 70, 216), rgb(174, 52, 245));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head3 {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(153, 153, 153);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: -80px;
+}
+
+.adding {
+    display: flex;
+    gap: 40px;
+    position: relative;
+    right: -170px;
+
+}
+
+.adds {
+    margin-bottom: 100px;
+    width: 17vw;
+    height: 70vh;
+    background: radial-gradient(rgb(40, 40, 42), rgb(6, 14, 74));
+    border-radius: 20px;
+
+}
+
+.anchordiv {
+    text-decoration: none;
+}
+
+
+.nametag {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: whitesmoke;
+    text-align: left;
+    position: relative;
+    bottom: -60px;
+    margin: 25px;
+
+}
+
+.insideadd {
+    width: 35.8vh;
+    height: 28vh;
+    background: red;
+    border-radius: 20px;
+
+
+}
+
+.inside1 {
+    background-image: url(./pics/app\ development.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.inside2 {
+    background-image: url(./pics/web\ development.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.inside3 {
+    background-image: url(./pics/ai\ development.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.inside4 {
+    background-image: url(./pics/iot.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.inside5 {
+    background-image: url(./pics/ux.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.inside6 {
+    background-image: url(./pics/marketing.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.inside7 {
+    background-image: url(./pics/cloud.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.inside8 {
+    background-image: url(./pics/e\ commerce.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ideas {
+    margin: 25px;
+    color: rgba(252, 252, 252, 0.677);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    bottom: -70px;
+    font-weight: 70;
+
+}
+
+.monogram {
+    background-color: rgba(6, 6, 223, 0.585);
+    border-radius: 13px;
+    text-decoration: none;
+    color: rgba(54, 163, 226, 0.789);
+    border: none;
+    height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: 50px;
+    right: -20px;
+
+
+}
+
+.adds:hover {
+    transform: translateY(-20px);
+
+}
+
+.headend {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(153, 153, 153);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: 580px;
+    left: -950px;
+    white-space: nowrap;
+}
+
+.lastbutton {
+
+    background: linear-gradient(to right, rgba(0, 255, 255, 0.736), rgba(53, 53, 216, 0.949));
+    border-radius: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 50px;
+    text-align: center;
+    position: relative;
+    right: 1400px;
+    bottom: -650px;
+    transition: 0.3s ease;
+}
+
+.lastbutton a {
+    height: 40px;
+    width: 150px;
+    text-decoration: none;
+    color: whitesmoke;
+    white-space: nowrap;
+    margin: 10px;
+
+}
